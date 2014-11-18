@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: fldigi 3.22.01\n"
 "Report-Msgid-Bugs-To: w1hkj AT w1hkj DOT com\n"
 "POT-Creation-Date: 2014-11-18 21:13+0100\n"
-"PO-Revision-Date: 2014-11-18 21:23+0100\n"
+"PO-Revision-Date: 2014-11-18 21:32+0100\n"
 "Last-Translator: Peter van der Post <pa1pos@outlook.com>\n"
 "Language-Team: Dutch\n"
 "Language: Nederlands (Dutch)\n"
@@ -1462,9 +1462,8 @@ msgid "<COMMENT:comment text>\tignore all comment text"
 msgstr "<COMMENT:comment text>\tNegeer alle commentaartekst"
 
 #: src/misc/macroedit.cxx:203
-#, fuzzy
 msgid "<CPS_TEST>\tmodem timing test internal string"
-msgstr "<CPS_STRING:s>\tmodem timing test, string 's'"
+msgstr "<CPS_TEST>\tmodem timing test interne tekst"
 
 #: src/misc/macroedit.cxx:204
 msgid "<CPS_FILE:>\tmodem timing test, spec' file"
@@ -2511,9 +2510,8 @@ msgid "cty.dat pathname"
 msgstr "pad naar cty.dat"
 
 #: src/dialogs/confdialog.cxx:5876
-#, fuzzy
 msgid "Enter full path-filename for cty.dat"
-msgstr "Voer het volledige pad in voor Flamp"
+msgstr "Voer het volledige pad in voor cty.dat"
 
 #: src/dialogs/confdialog.cxx:5889
 msgid "Browse"
